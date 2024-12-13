@@ -1,3 +1,4 @@
 *.html
 data-215/project-2/bank-additional-names.txt
 *__pycache__
+*env/
