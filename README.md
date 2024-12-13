@@ -15,6 +15,12 @@ Then, access one project:
 cd project-1
 ```
 
+Create and access a virtual environment (Windows):
+```
+python -m venv env
+env\Scripts\activate.bat
+```
+
 Finally, install the required modules that my projects use **within the selected project folder**:
 ```
 pip install -r requirements.txt
